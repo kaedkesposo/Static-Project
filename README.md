@@ -16,7 +16,7 @@ The final write-up is `static-viz/final.pdf`. It contains six charts: a
 boxplot, a choropleth map, two scatter plots, a heatmap, and a grouped bar
 chart.
 
-![Final project screenshot](static-viz/screenshot.png)
+![Final project screenshot](static-viz/static.png)
 
 
 ## Data Sources
