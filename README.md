@@ -12,7 +12,7 @@ project compares schools within poverty groups to see whether school climate,
 chronic absenteeism, or enrollment change still relate to growth. All results
 are associations, not causes. Growth is measured for the 2023-24 school year.
 
-The final write-up is `static-viz/final.pdf`. It contains six charts: a
+The final write-up is `static_viz/What%20Drives%20Academic%20Growth%20in%20Chicago%20Public%20Schools.pdf`. It contains six charts: a
 boxplot, a choropleth map, two scatter plots, a heatmap, and a grouped bar
 chart.
 
